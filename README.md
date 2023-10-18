@@ -8,5 +8,5 @@ This program uses the sowpods dictionary https://download.cnet.com/SOWPODS-Scrab
 
 # Notes
 
-This is still kind of buggy and I may patch it if I feel like it.
-Inputting is also kind of scuffed so check out the rules in the game :)
+Inputs are a bit finnicky and a few minor errors exist so be careful when inputting.
+Be sure to read the rules
